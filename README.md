@@ -1,1 +1,3 @@
-# Deep_learning_with_Colab
+# Deep Learning with Google Colab
+
+This repository contains the Deep Learning Notebooks, can run directly with google colab. 
